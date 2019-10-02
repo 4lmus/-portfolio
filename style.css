@@ -1,0 +1,156 @@
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: white;
+
+  background: #ffffff url("https://clipart-db.ru/file_content/rastr/background_019.jpg") top center;
+}
+
+h1 {
+  font-size: 24px;
+  line-height: normal;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: normal;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}
+
+.avatar-container {
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.pages {
+  margin-bottom: 30px;
+  padding: 20px;
+
+  color: #ffffff;
+}
+
+.pages h2 {
+  margin-top: 0;
+}
+
+.pages ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.pages li {
+  margin-bottom: 5px;
+}
+
+.pages a {
+  color: #ffffff;
+}
+
+.knowledge dd {
+  margin: 0;
+  margin-bottom: 10px;
+
+  background-color: #e8e8e8;
+}
+
+.knowledge-level {
+  font-size: 12px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #4470c4;
+}
+
+.knowledge-level-ok {
+  background-color: #47bb52;
+}
+
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figure img {
+  vertical-align: middle;
+  border: 8px solid rgb(202, 224, 248);
+}
+
+figcaption {
+  width: 666px;
+  padding-bottom: 8px;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(202, 224, 248);
+  color: black;
+}
+
+.pagination {
+  text-align: center;
+  color: #888888;
+}
+
+.pagination a {
+  display: inline-block;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+
+footer {
+  margin-top: 30px;
+  padding-top: 10px;
+  color: white;
+  border-top: 1px solid white;
+}
+
+.page-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+}
+
+h3 {
+	font-size: 17px;
+	line-height: normal;
+	text-align: center;
+}
+
+h4 {
+	font-size: 26px;
+	line-height: normal;
+	text-align: center;
+}
+	
+table {
+  border: 6px solid white;
+  border-collapse: collapse;
+  border-spacing: 4px;
+}
+
+td {
+  border: 3px solid lightgray;
+  padding: 5px;
+  padding-right: 30px;
+}
+
+th {
+  padding: 10px;
+  border: 3px solid white;
+  font-weight: bold;
+}
+ img {
+
+  border: 8px solid rgb(202, 224, 248);
+ }
